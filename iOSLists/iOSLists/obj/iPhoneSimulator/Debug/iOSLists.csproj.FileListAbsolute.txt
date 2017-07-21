@@ -1,0 +1,9 @@
+/Users/melissabakke/Projects/iOSLists/iOSLists/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/melissabakke/Projects/iOSLists/iOSLists/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_PartialAppManifest.items
+/Users/melissabakke/Projects/iOSLists/iOSLists/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/melissabakke/Projects/iOSLists/iOSLists/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/
+/Users/melissabakke/Projects/iOSLists/iOSLists/obj/iPhoneSimulator/Debug/iOSLists.csproj.CoreCompileInputs.cache
+/Users/melissabakke/Projects/iOSLists/iOSLists/bin/iPhoneSimulator/Debug/iOSLists.exe
+/Users/melissabakke/Projects/iOSLists/iOSLists/bin/iPhoneSimulator/Debug/iOSLists.pdb
+/Users/melissabakke/Projects/iOSLists/iOSLists/obj/iPhoneSimulator/Debug/iOSLists.exe
+/Users/melissabakke/Projects/iOSLists/iOSLists/obj/iPhoneSimulator/Debug/iOSLists.pdb

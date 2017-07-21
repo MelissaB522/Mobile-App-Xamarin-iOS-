@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C137B8ED-930F-4BC2-966A-33E50C1222B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlagQuizApp/AudioManager.cs">
+    <Files>
+      <File FileName="FlagQuizApp/Main.storyboard" />
+      <File FileName="FlagQuizApp/Data.cs" Line="14" Column="34" />
+      <File FileName="FlagQuizApp/QuestionViewController.cs" Line="85" Column="56" />
+      <File FileName="FlagQuizApp/EndGameViewController.cs" Line="22" Column="50" />
+      <File FileName="FlagQuizApp/AudioManager.cs" Line="73" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.FlagQuizApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FEF47320-A91A-46DC-B0D7-762553D00E7E" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

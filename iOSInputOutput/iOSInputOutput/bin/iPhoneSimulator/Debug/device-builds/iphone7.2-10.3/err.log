@@ -1,0 +1,164 @@
+objc[6809]: Class VCWeakObjectHolder is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/ViceroyTrace.framework/ViceroyTrace (0x119cc0ca8) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/AVConference.framework/AVConference (0x119bf2cd0). One of the two will be used. Which one is undefined.
+objc[6809]: Class PLBuildVersion is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/AssetsLibraryServices.framework/AssetsLibraryServices (0x1179e5cc0) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/PhotoLibraryServices.framework/PhotoLibraryServices (0x1177fc6f0). One of the two will be used. Which one is undefined.
+2017-06-20 17:07:27.595 iOSInputOutput[6809:555632] Xamarin.iOS: Added IP to look for the IDE: 127.0.0.1
+2017-06-20 17:07:27.596 iOSInputOutput[6809:555632] Xamarin.iOS: IDE Port: 27501 Transport: WiFi
+2017-06-20 17:07:27.596 iOSInputOutput[6809:555632] Xamarin.iOS: Socket error while connecting to IDE on 127.0.0.1:27501: Connection refused
+2017-06-20 17:07:27.596 iOSInputOutput[6809:555611] Xamarin.iOS: Debugger not loaded (disabled).
+2017-06-20 17:07:27.597 iOSInputOutput[6809:555611] Xamarin.iOS: Profiler not loaded (disabled)
+2017-06-20 17:07:27.606 iOSInputOutput[6809:555611] Xamarin.iOS: Added dllmap for objc_msgSend
+2017-06-20 17:07:27.923 iOSInputOutput[6809:555611] Xamarin.iOS: Received unhandled ObjectiveC exception: NSUnknownKeyException [<ViewController 0x7fbe84418f70> setValue:forUndefinedKey:]: this class is not key value coding-compliant for the key Name:.
+2017-06-20 17:07:27.934 iOSInputOutput[6809:555611] 
+Unhandled Exception:
+Foundation.MonoTouchException: Objective-C exception thrown.  Name: NSUnknownKeyException Reason: [<ViewController 0x7fbe84418f70> setValue:forUndefinedKey:]: this class is not key value coding-compliant for the key Name:.
+Native stack trace:
+	0   CoreFoundation                      0x000000010bad0b0b __exceptionPreprocess + 171
+	1   libobjc.A.dylib                     0x000000010c52f141 objc_exception_throw + 48
+	2   CoreFoundation                      0x000000010bad0a59 -[NSException raise] + 9
+	3   Foundation                          0x00000001038cde8b -[NSObject(NSKeyValueCoding) setValue:forKey:] + 292
+	4   UIKit                               0x0000000101c72644 -[UIViewController setValue:forKey:] + 87
+	5   UIKit                               0x0000000101edf6b9 -[UIRuntimeOutletConnection connect] + 109
+	6   CoreFoundation                      0x000000010ba76e8d -[NSArray makeObjectsPerformSelector:] + 269
+	7   UIKit                               0x0000000101ede06f -[UINib instantiateWithOwner:options:] + 1856
+	8   UIKit                               0x0000000101c78c73 -[UIViewController _loadViewFromNibNamed:bundle:] + 381
+	9   UIKit                               0x0000000101c79589 -[UIViewController loadView] + 177
+	10  UIKit                               0x0000000101c798ba -[UIViewController loadViewIfRequired] + 195
+	11  UIKit                               0x0000000101cb8b1c -[UINavigationController _layoutViewController:] + 56
+	12  UIKit                               0x0000000101cb93fa -[UINavigationController _updateScrollViewFromViewController:toViewController:] + 466
+	13  UIKit                               0x0000000101cb956b -[UINavigationController _startTransition:fromViewController:toViewController:] + 127
+	14  UIKit                               0x0000000101cba6b3 -[UINavigationController _startDeferredTransitionIfNeeded:] + 843
+	15  UIKit                               0x0000000101cbb7f1 -[UINavigationController __viewWillLayoutSubviews] + 58
+	16  UIKit                               0x0000000101ead2bc -[UILayoutContainerView layoutSubviews] + 231
+	17  UIKit                               0x0000000101b9a20b -[UIView(CALayerDelegate) layoutSublayersOfLayer:] + 1268
+	18  QuartzCore                          0x00000001073fc904 -[CALayer layoutSublayers] + 146
+	19  QuartzCore                          0x00000001073f0526 _ZN2CA5Layer16layout_if_neededEPNS_11TransactionE + 370
+	20  QuartzCore                          0x00000001073f03a0 _ZN2CA5Layer28layout_and_display_if_neededEPNS_11TransactionE + 24
+	21  QuartzCore                          0x000000010737fe92 _ZN2CA7Context18commit_transactionEPNS_11TransactionE + 294
+	22  QuartzCore                          0x00000001073ac130 _ZN2CA11Transaction6commitEv + 468
+	23  QuartzCore                          0x00000001073acb37 _ZN2CA11Transaction17observer_callbackEP19__CFRunLoopObservermPv + 115
+	24  CoreFoundation                      0x000000010ba76717 __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__ + 23
+	25  CoreFoundation                      0x000000010ba76687 __CFRunLoopDoObservers + 391
+	26  CoreFoundation                      0x000000010ba5b038 CFRunLoopRunSpecific + 440
+	27  UIKit                               0x0000000101ad102f -[UIApplication _run] + 468
+	28  UIKit                               0x0000000101ad70d4 UIApplicationMain + 159
+	29  ???                                 0x0000000120ff09f5 0x0 + 4848552437
+	30  ???                                 0x0000000120ff0860 0x0 + 4848552032
+
+  at ObjCRuntime.Runtime.ThrowNSException (System.IntPtr ns_exception) [0x00000] in /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/ObjCRuntime/Runtime.cs:319 
+  at ObjCRuntime.Runtime.throw_ns_exception (System.IntPtr exc) [0x00000] in /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/runtime/Delegates.generated.cs:126 
+  at (wrapper native-to-managed) ObjCRuntime.Runtime:throw_ns_exception (intptr)
+--- End of stack trace from previous location where exception was thrown ---
+  at (wrapper managed-to-native) UIKit.UIApplication:UIApplicationMain (int,string[],intptr,intptr)
+  at UIKit.UIApplication.Main (System.String[] args, System.IntPtr principal, System.IntPtr delegate) [0x00005] in /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/UIKit/UIApplication.cs:79 
+  at UIKit.UIApplication.Main (System.String[] args, System.String principalClassName, System.String delegateClassName) [0x00038] in /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/UIKit/UIApplication.cs:63 
+  at iOSInputOutput.Application.Main (System.String[] args) [0x00001] in /Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/Main.cs:12 	0   CoreFoundation                      0x000000010bad0b0b __exceptionPreprocess + 171
+	1   libobjc.A.dylib                     0x000000010c52f141 objc_exception_throw + 48
+	2   CoreFoundation                      0x000000010bad0a59 -[NSException raise] + 9
+	3   Foundation                          0x00000001038cde8b -[NSObject(NSKeyValueCoding) setValue:forKey:] + 292
+	4   UIKit                               0x0000000101c72644 -[UIViewController setValue:forKey:] + 87
+	5   UIKit                               0x0000000101edf6b9 -[UIRuntimeOutletConnection connect] + 109
+	6   CoreFoundation                      0x000000010ba76e8d -[NSArray makeObjectsPerformSelector:] + 269
+	7   UIKit                               0x0000000101ede06f -[UINib instantiateWithOwner:options:] + 1856
+	8   UIKit                               0x0000000101c78c73 -[UIViewController _loadViewFromNibNamed:bundle:] + 381
+	9   UIKit                               0x0000000101c79589 -[UIViewController loadView] + 177
+	10  UIKit                               0x0000000101c798ba -[UIViewController loadViewIfRequired] + 195
+	11  UIKit                               0x0000000101cb8b1c -[UINavigationController _layoutViewController:] + 56
+	12  UIKit                               0x0000000101cb93fa -[UINavigationController _updateScrollViewFromViewController:toViewController:] + 466
+	13  UIKit                               0x0000000101cb956b -[UINavigationController _startTransition:fromViewController:toViewController:] + 127
+	14  UIKit                               0x0000000101cba6b3 -[UINavigationController _startDeferredTransitionIfNeeded:] + 843
+	15  UIKit                               0x0000000101cbb7f1 -[UINavigationController __viewWillLayoutSubviews] + 58
+	16  UIKit                               0x0000000101ead2bc -[UILayoutContainerView layoutSubviews] + 231
+	17  UIKit                               0x0000000101b9a20b -[UIView(CALayerDelegate) layoutSublayersOfLayer:] + 1268
+	18  QuartzCore                          0x00000001073fc904 -[CALayer layoutSublayers] + 146
+	19  QuartzCore                          0x00000001073f0526 _ZN2CA5Layer16layout_if_neededEPNS_11TransactionE + 370
+	20  QuartzCore                          0x00000001073f03a0 _ZN2CA5Layer28layout_and_display_if_neededEPNS_11TransactionE + 24
+	21  QuartzCore                          0x000000010737fe92 _ZN2CA7Context18commit_transactionEPNS_11TransactionE + 294
+	22  QuartzCore                          0x00000001073ac130 _ZN2CA11Transaction6commitEv + 468
+	23  QuartzCore                          0x00000001073acb37 _ZN2CA11Transaction17observer_callbackEP19__CFRunLoopObservermPv + 115
+	24  CoreFoundation                      0x000000010ba76717 __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__ + 23
+	25  CoreFoundation                      0x000000010ba76687 __CFRunLoopDoObservers + 391
+	26  CoreFoundation                      0x000000010ba5b038 CFRunLoopRunSpecific + 440
+	27  UIKit                               0x0000000101ad102f -[UIApplication _run] + 468
+	28  UIKit                               0x0000000101ad70d4 UIApplicationMain + 159
+	29  ???                                 0x0000000120ff09f5 0x0 + 4848552437
+	30  ???                                 0x0000000120ff0860 0x0 + 4848552032
+
+2017-06-20 17:07:27.935 iOSInputOutput[6809:555611] Unhandled managed exception:
+Objective-C exception thrown.  Name: NSUnknownKeyException Reason: [<ViewController 0x7fbe84418f70> setValue:forUndefinedKey:]: this class is not key value coding-compliant for the key Name:.
+Native stack trace:
+	0   CoreFoundation                      0x000000010bad0b0b __exceptionPreprocess + 171
+	1   libobjc.A.dylib                     0x000000010c52f141 objc_exception_throw + 48
+	2   CoreFoundation                      0x000000010bad0a59 -[NSException raise] + 9
+	3   Foundation                          0x00000001038cde8b -[NSObject(NSKeyValueCoding) setValue:forKey:] + 292
+	4   UIKit                               0x0000000101c72644 -[UIViewController setValue:forKey:] + 87
+	5   UIKit                               0x0000000101edf6b9 -[UIRuntimeOutletConnection connect] + 109
+	6   CoreFoundation                      0x000000010ba76e8d -[NSArray makeObjectsPerformSelector:] + 269
+	7   UIKit                               0x0000000101ede06f -[UINib instantiateWithOwner:options:] + 1856
+	8   UIKit                               0x0000000101c78c73 -[UIViewController _loadViewFromNibNamed:bundle:] + 381
+	9   UIKit                               0x0000000101c79589 -[UIViewController loadView] + 177
+	10  UIKit                               0x0000000101c798ba -[UIViewController loadViewIfRequired] + 195
+	11  UIKit                               0x0000000101cb8b1c -[UINavigationController _layoutViewController:] + 56
+	12  UIKit                               0x0000000101cb93fa -[UINavigationController _updateScrollViewFromViewController:toViewController:] + 466
+	13  UIKit                               0x0000000101cb956b -[UINavigationController _startTransition:fromViewController:toViewController:] + 127
+	14  UIKit                               0x0000000101cba6b3 -[UINavigationController _startDeferredTransitionIfNeeded:] + 843
+	15  UIKit                               0x0000000101cbb7f1 -[UINavigationController __viewWillLayoutSubviews] + 58
+	16  UIKit                               0x0000000101ead2bc -[UILayoutContainerView layoutSubviews] + 231
+	17  UIKit                               0x0000000101b9a20b -[UIView(CALayerDelegate) layoutSublayersOfLayer:] + 1268
+	18  QuartzCore                          0x00000001073fc904 -[CALayer layoutSublayers] + 146
+	19  QuartzCore                          0x00000001073f0526 _ZN2CA5Layer16layout_if_neededEPNS_11TransactionE + 370
+	20  QuartzCore                          0x00000001073f03a0 _ZN2CA5Layer28layout_and_display_if_neededEPNS_11TransactionE + 24
+	21  QuartzCore                          0x000000010737fe92 _ZN2CA7Context18commit_transactionEPNS_11TransactionE + 294
+	22  QuartzCore                          0x00000001073ac130 _ZN2CA11Transaction6commitEv + 468
+	23  QuartzCore                          0x00000001073acb37 _ZN2CA11Transaction17observer_callbackEP19__CFRunLoopObservermPv + 115
+	24  CoreFoundation                      0x000000010ba76717 __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__ + 23
+	25  CoreFoundation                      0x000000010ba76687 __CFRunLoopDoObservers + 391
+	26  CoreFoundation                      0x000000010ba5b038 CFRunLoopRunSpecific + 440
+	27  UIKit                               0x0000000101ad102f -[UIApplication _run] + 468
+	28  UIKit                               0x0000000101ad70d4 UIApplicationMain + 159
+	29  ???                                 0x0000000120ff09f5 0x0 + 4848552437
+	30  ???                                 0x0000000120ff0860 0x0 + 4848552032
+ (Foundation.MonoTouchException)
+  at ObjCRuntime.Runtime.ThrowNSException (System.IntPtr ns_exception) [0x00000] in /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/ObjCRuntime/Runtime.cs:319 
+  at ObjCRuntime.Runtime.throw_ns_exception (System.IntPtr exc) [0x00000] in /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/runtime/Delegates.generated.cs:126 
+  at (wrapper native-to-managed) ObjCRuntime.Runtime:throw_ns_exception (intptr)
+--- End of stack trace from previous location where exception was thrown ---
+  at (wrapper managed-to-native) UIKit.UIApplication:UIApplicationMain (int,string[],intptr,intptr)
+  at UIKit.UIApplication.Main (System.String[] args, System.IntPtr principal, System.IntPtr delegate) [0x00005] in /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/UIKit/UIApplication.cs:79 
+  at UIKit.UIApplication.Main (System.String[] args, System.String principalClassName, System.String delegateClassName) [0x00038] in /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/UIKit/UIApplication.cs:63 
+  at iOSInputOutput.Application.Main (System.String[] args) [0x00001] in /Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/Main.cs:12 
+2017-06-20 17:07:27.936 iOSInputOutput[6809:555611] critical: Stacktrace:
+
+2017-06-20 17:07:27.936 iOSInputOutput[6809:555611] critical: 
+Native stacktrace:
+
+2017-06-20 17:07:27.939 iOSInputOutput[6809:555611] critical: 	0   libmonosgen-2.0.dylib               0x000000010bf7e0f1 mono_handle_native_crash + 257
+2017-06-20 17:07:27.939 iOSInputOutput[6809:555611] critical: 	1   libsystem_platform.dylib            0x000000010d6e4b3a _sigtramp + 26
+2017-06-20 17:07:27.939 iOSInputOutput[6809:555611] critical: 	2   libsystem_pthread.dylib             0x000000010d7022c8 _pthread_keys + 9720
+2017-06-20 17:07:27.939 iOSInputOutput[6809:555611] critical: 	3   libsystem_c.dylib                   0x000000010d45388f abort + 127
+2017-06-20 17:07:27.939 iOSInputOutput[6809:555611] critical: 	4   libxamarin-debug.dylib              0x000000010c3bfcff xamarin_unhandled_exception_handler + 47
+2017-06-20 17:07:27.940 iOSInputOutput[6809:555611] critical: 	5   libmonosgen-2.0.dylib               0x000000010c017c14 mono_invoke_unhandled_exception_hook + 148
+2017-06-20 17:07:27.940 iOSInputOutput[6809:555611] critical: 	6   libmonosgen-2.0.dylib               0x000000010bf7dbd1 mono_handle_exception_internal + 4913
+2017-06-20 17:07:27.940 iOSInputOutput[6809:555611] critical: 	7   libmonosgen-2.0.dylib               0x000000010bf7c898 mono_handle_exception + 24
+2017-06-20 17:07:27.940 iOSInputOutput[6809:555611] critical: 	8   libmonosgen-2.0.dylib               0x000000010bfdc26f mono_amd64_throw_exception + 143
+2017-06-20 17:07:27.940 iOSInputOutput[6809:555611] critical: 	9   ???                                 0x0000000120f30ae7 0x0 + 4847766247
+2017-06-20 17:07:27.941 iOSInputOutput[6809:555611] critical: 	10  libxamarin-debug.dylib              0x000000010c3bf8f7 xamarin_process_managed_exception_gchandle + 55
+2017-06-20 17:07:27.941 iOSInputOutput[6809:555611] critical: 	11  libxamarin-debug.dylib              0x000000010c3bf8b3 xamarin_ftnptr_exception_handler + 19
+2017-06-20 17:07:27.941 iOSInputOutput[6809:555611] critical: 	12  ???                                 0x0000000120fb378b 0x0 + 4848301963
+2017-06-20 17:07:27.941 iOSInputOutput[6809:555611] critical: 	13  libxamarin-debug.dylib              0x000000010c3bdc84 xamarin_throw_ns_exception + 36
+2017-06-20 17:07:27.941 iOSInputOutput[6809:555611] critical: 	14  libxamarin-debug.dylib              0x000000010c3c0401 _ZL17exception_handlerP11NSException + 177
+2017-06-20 17:07:27.941 iOSInputOutput[6809:555611] critical: 	15  CoreFoundation                      0x000000010bb3993f __handleUncaughtException + 751
+2017-06-20 17:07:27.942 iOSInputOutput[6809:555611] critical: 	16  libobjc.A.dylib                     0x000000010c52f3bb _ZL15_objc_terminatev + 94
+2017-06-20 17:07:27.942 iOSInputOutput[6809:555611] critical: 	17  libc++abi.dylib                     0x000000010cd02f29 _ZSt11__terminatePFvvE + 8
+2017-06-20 17:07:27.942 iOSInputOutput[6809:555611] critical: 	18  libc++abi.dylib                     0x000000010cd02bbe __cxa_rethrow + 99
+2017-06-20 17:07:27.942 iOSInputOutput[6809:555611] critical: 	19  libobjc.A.dylib                     0x000000010c52f2dc objc_exception_rethrow + 40
+2017-06-20 17:07:27.942 iOSInputOutput[6809:555611] critical: 	20  CoreFoundation                      0x000000010ba5b096 CFRunLoopRunSpecific + 534
+2017-06-20 17:07:27.942 iOSInputOutput[6809:555611] critical: 	21  UIKit                               0x0000000101ad102f -[UIApplication _run] + 468
+2017-06-20 17:07:27.943 iOSInputOutput[6809:555611] critical: 	22  UIKit                               0x0000000101ad70d4 UIApplicationMain + 159
+2017-06-20 17:07:27.943 iOSInputOutput[6809:555611] critical: 	23  ???                                 0x0000000120ff09f5 0x0 + 4848552437
+2017-06-20 17:07:27.943 iOSInputOutput[6809:555611] critical: 	24  ???                                 0x0000000120ff0860 0x0 + 4848552032
+2017-06-20 17:07:27.943 iOSInputOutput[6809:555611] critical: 
+=================================================================
+Got a SIGABRT while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+

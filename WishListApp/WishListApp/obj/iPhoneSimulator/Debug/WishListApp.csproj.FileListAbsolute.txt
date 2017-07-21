@@ -1,0 +1,21 @@
+c:/users/melissa/documents/visual studio 2017/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+c:/users/melissa/documents/visual studio 2017/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+c:/users/melissa/documents/visual studio 2017/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+c:/users/melissa/documents/visual studio 2017/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/optimized/Entitlements.plist
+c:/users/melissa/documents/visual studio 2017/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/optimized/
+c:/users/melissa/documents/visual studio 2017/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/WishListApp.csprojResolveAssemblyReference.cache
+c:/users/melissa/documents/visual studio 2017/Projects/WishListApp/WishListApp/bin/iPhoneSimulator/Debug/WishListApp.exe
+c:/users/melissa/documents/visual studio 2017/Projects/WishListApp/WishListApp/bin/iPhoneSimulator/Debug/WishListApp.pdb
+c:/users/melissa/documents/visual studio 2017/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/WishListApp.exe
+c:/users/melissa/documents/visual studio 2017/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/WishListApp.pdb
+/Users/melissabakke/Projects/WishListApp/WishListApp/bin/iPhoneSimulator/Debug/WishListApp.exe
+/Users/melissabakke/Projects/WishListApp/WishListApp/bin/iPhoneSimulator/Debug/WishListApp.pdb
+/Users/melissabakke/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/melissabakke/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_PartialAppManifest.items
+/Users/melissabakke/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/melissabakke/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/Entitlements.plist
+/Users/melissabakke/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/
+/Users/melissabakke/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/WishListApp.csprojResolveAssemblyReference.cache
+/Users/melissabakke/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/WishListApp.csproj.CoreCompileInputs.cache
+/Users/melissabakke/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/WishListApp.exe
+/Users/melissabakke/Projects/WishListApp/WishListApp/obj/iPhoneSimulator/Debug/WishListApp.pdb

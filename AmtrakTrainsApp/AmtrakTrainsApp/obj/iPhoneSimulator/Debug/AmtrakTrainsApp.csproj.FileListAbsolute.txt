@@ -1,0 +1,11 @@
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/bin/iPhoneSimulator/Debug/AmtrakTrainsApp.exe
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/bin/iPhoneSimulator/Debug/AmtrakTrainsApp.pdb
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_PartialAppManifest.items
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/amtrak.png
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/obj/iPhoneSimulator/Debug/AmtrakTrainsApp.csproj.CoreCompileInputs.cache
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/obj/iPhoneSimulator/Debug/AmtrakTrainsApp.exe
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/obj/iPhoneSimulator/Debug/AmtrakTrainsApp.pdb
+/Users/melissabakke/Projects/AmtrakTrainsApp/AmtrakTrainsApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/redeyetrip.png

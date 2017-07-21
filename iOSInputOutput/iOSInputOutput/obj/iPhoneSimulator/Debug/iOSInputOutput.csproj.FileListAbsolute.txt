@@ -1,0 +1,10 @@
+/Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_PartialAppManifest.items
+/Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/
+/Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/obj/iPhoneSimulator/Debug/iOSInputOutput.csproj.CoreCompileInputs.cache
+/Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/bin/iPhoneSimulator/Debug/iOSInputOutput.exe
+/Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/bin/iPhoneSimulator/Debug/iOSInputOutput.pdb
+/Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/bin/iPhoneSimulator/Debug/TimesSquare.iOS.dll
+/Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/obj/iPhoneSimulator/Debug/iOSInputOutput.exe
+/Users/melissabakke/Projects/iOSInputOutput/iOSInputOutput/obj/iPhoneSimulator/Debug/iOSInputOutput.pdb

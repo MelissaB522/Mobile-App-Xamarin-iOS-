@@ -1,0 +1,11 @@
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\bin\iPhoneSimulator\Debug\SoundboardApp.exe
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\bin\iPhoneSimulator\Debug\SoundboardApp.pdb
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\obj\iPhoneSimulator\Debug\optimized\drumset.png
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\obj\iPhoneSimulator\Debug\optimized\
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\obj\iPhoneSimulator\Debug\SoundboardApp.csprojResolveAssemblyReference.cache
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\obj\iPhoneSimulator\Debug\SoundboardApp.exe
+c:\users\melissa\documents\visual studio 2017\Projects\SoundboardApp\SoundboardApp\obj\iPhoneSimulator\Debug\SoundboardApp.pdb

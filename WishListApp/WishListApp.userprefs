@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0C45E40E-F714-4124-8A6A-EAB7350601B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WishListApp/Main.storyboard">
+    <Files>
+      <File FileName="WishListApp/Main.storyboard" />
+      <File FileName="WishListApp/TableSource.cs" Line="1" Column="1" />
+      <File FileName="WishListApp/ViewController.cs" Line="1" Column="1" />
+      <File FileName="WishListApp/NewViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WishListApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FEF47320-A91A-46DC-B0D7-762553D00E7E" />
+</Properties>

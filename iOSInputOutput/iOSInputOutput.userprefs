@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BA77ED69-A8EF-4C02-99F8-DF8D2A97DD19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOSInputOutput/Main.storyboard">
+    <Files>
+      <File FileName="iOSInputOutput/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iOSInputOutput/Main.storyboard" />
+      <File FileName="iOSInputOutput/ViewController.cs" Line="30" Column="41" />
+      <File FileName="iOSInputOutput/CalendarViewController.cs" Line="23" Column="46" />
+      <File FileName="iOSInputOutput/UserData.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="iOSInputOutput" expanded="True">
+            <Node name="iOSInputOutput" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.iOSInputOutput PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FEF47320-A91A-46DC-B0D7-762553D00E7E" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6D54E45D-5ADF-4E8A-9F9C-CC82D3C427C7}|Default">
+  <MonoDevelop.Ide.ItemProperties.AmtrakTrainsApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FEF47320-A91A-46DC-B0D7-762553D00E7E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AmtrakTrainsApp/ViewController.cs">
+    <Files>
+      <File FileName="AmtrakTrainsApp/Main.storyboard" />
+      <File FileName="AmtrakTrainsApp/ViewController.cs" Line="45" Column="46" />
+      <File FileName="AmtrakTrainsApp/NewViewController.cs" Line="31" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
