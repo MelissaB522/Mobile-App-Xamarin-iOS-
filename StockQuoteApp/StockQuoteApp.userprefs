@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{455B031C-F811-4B0B-B442-5F9184C66F79}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockQuoteApp/ListController.cs">
+    <Files>
+      <File FileName="StockQuoteApp/Main.storyboard" />
+      <File FileName="StockQuoteApp/ViewController.cs" Line="93" Column="3" />
+      <File FileName="StockQuoteApp/QuoteViewController.cs" Line="21" Column="1" />
+      <File FileName="StockQuoteApp/Quote.cs" Line="6" Column="22" />
+      <File FileName="StockQuoteApp/TableSource.cs" Line="29" Column="36" />
+      <File FileName="StockQuoteApp/ListController.cs" Line="27" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StockQuoteApp" expanded="True">
+            <Node name="StockQuoteApp" expanded="True">
+              <Node name="WebReferences" expanded="True" />
+              <Node name="ListController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StockQuoteApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FEF47320-A91A-46DC-B0D7-762553D00E7E" />
+  <MultiItemStartupConfigurations />
+</Properties>

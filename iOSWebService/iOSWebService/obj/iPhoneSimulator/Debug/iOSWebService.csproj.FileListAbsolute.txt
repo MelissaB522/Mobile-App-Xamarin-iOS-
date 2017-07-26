@@ -1,0 +1,10 @@
+c:\users\melissa\documents\visual studio 2017\Projects\iOSWebService\iOSWebService\bin\iPhoneSimulator\Debug\iOSWebService.exe
+c:\users\melissa\documents\visual studio 2017\Projects\iOSWebService\iOSWebService\bin\iPhoneSimulator\Debug\iOSWebService.pdb
+c:\users\melissa\documents\visual studio 2017\Projects\iOSWebService\iOSWebService\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+c:\users\melissa\documents\visual studio 2017\Projects\iOSWebService\iOSWebService\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+c:\users\melissa\documents\visual studio 2017\Projects\iOSWebService\iOSWebService\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+c:\users\melissa\documents\visual studio 2017\Projects\iOSWebService\iOSWebService\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+c:\users\melissa\documents\visual studio 2017\Projects\iOSWebService\iOSWebService\obj\iPhoneSimulator\Debug\optimized\
+c:\users\melissa\documents\visual studio 2017\Projects\iOSWebService\iOSWebService\obj\iPhoneSimulator\Debug\iOSWebService.csprojResolveAssemblyReference.cache
+c:\users\melissa\documents\visual studio 2017\Projects\iOSWebService\iOSWebService\obj\iPhoneSimulator\Debug\iOSWebService.exe
+c:\users\melissa\documents\visual studio 2017\Projects\iOSWebService\iOSWebService\obj\iPhoneSimulator\Debug\iOSWebService.pdb

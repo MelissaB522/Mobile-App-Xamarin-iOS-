@@ -1,0 +1,32 @@
+E:/StockQuoteApp/StockQuoteApp/bin/iPhoneSimulator/Debug/StockQuoteApp.exe
+E:/StockQuoteApp/StockQuoteApp/bin/iPhoneSimulator/Debug/StockQuoteApp.pdb
+E:/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+E:/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+E:/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+E:/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/optimized/Entitlements.plist
+E:/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/optimized/
+E:/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.csprojResolveAssemblyReference.cache
+E:/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.exe
+E:/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.pdb
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_PartialAppManifest.items
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_BundleResourceWithLogicalName.items
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/Entitlements.plist
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.csprojResolveAssemblyReference.cache
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.exe
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.pdb
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/bin/iPhoneSimulator/Debug/StockQuoteApp.exe
+/Volumes/NO NAME/StockQuoteApp/StockQuoteApp/bin/iPhoneSimulator/Debug/StockQuoteApp.pdb
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/bin/iPhoneSimulator/Debug/StockQuoteApp.exe
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/bin/iPhoneSimulator/Debug/StockQuoteApp.pdb
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_PartialAppManifest.items
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/Entitlements.plist
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3/optimized/
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.csprojResolveAssemblyReference.cache
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.csproj.CoreCompileInputs.cache
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.exe
+/Users/melissabakke/Projects/StockQuoteApp/StockQuoteApp/obj/iPhoneSimulator/Debug/StockQuoteApp.pdb
